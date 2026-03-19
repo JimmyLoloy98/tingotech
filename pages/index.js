@@ -25,7 +25,7 @@ export default function Home() {
           <div className="relative container mx-auto flex items-center w-full md:w-5/6">
             <div className="w-full md:w-1/2 mx-2">
               <h2 className="font-bold text-4xl md:text-6xl text-white leading-tight">
-                Servicio Técnico y Reparaciones de Laptops
+                Servicio Técnico y Reparación de Laptops
               </h2>
               <p className="mt-5 mb-8 text-lg font-light text-white">
                 Brindamos servicio técnico de Laptops y PCs. Mantenimiento
@@ -34,7 +34,7 @@ export default function Home() {
                 diferencia.
               </p>
               <Link
-                href="https://api.whatsapp.com/send?phone=51986077683&text=Hola Tío TingoTech te quería consultar..."
+                href="https://api.whatsapp.com/send?phone=51927313308&text=Hola%20tío%20TingoTech%20te%20consulto%20sobre%20"
                 target="_blank"
                 rel="noopener noreferrer"
                 title="Chatea con nosotros"
@@ -152,7 +152,7 @@ export default function Home() {
               hardware o software en tu PC ó Laptop
             </p>
             <Link
-              href="https://api.whatsapp.com/send?phone=51986077683&text=Hola Tío TingoTech quisiera pedir un servicio a domicilio para la dirección..."
+              href="https://api.whatsapp.com/send?phone=51927313308&text=Hola%20tío%20TingoTech%20te%20quiero%20pedir%20un%20servicio%20a%20domicilio%20para%20la%20dirección"
               target="_blank"
               rel="noopener noreferrer"
               title="Chatea con nosotros"
@@ -185,7 +185,8 @@ export default function Home() {
                 dejó de encender.
               </p>
               <Link
-                href="https://api.whatsapp.com/send?phone=51986077683&text=Hola Tío TingoTech, mi computadora no enciente 😢..."
+                href="https://api.whatsapp.com/send?phone=51927313308&text=Hola Tío TingoTech, mi computadora no enciente 😢..."
+
                 target="_blank"
                 rel="noopener noreferrer"
                 title="Conversa con nosotros"
@@ -205,7 +206,7 @@ export default function Home() {
                 Cuando trabajas o cuando juegas, tenemos la solución
               </p>
               <Link
-                href="https://api.whatsapp.com/send?phone=51986077683&text=Hola Tío TingoTech, me salen pantallazos azules 😢..."
+                href="https://api.whatsapp.com/send?phone=51927313308&text=Hola Tío TingoTech, me salen pantallazos azules 😢..."
                 target="_blank"
                 rel="noopener noreferrer"
                 title="Conversa con nosotros"
@@ -226,7 +227,7 @@ export default function Home() {
                 lento
               </p>
               <Link
-                href="https://api.whatsapp.com/send?phone=51986077683&text=Hola Tío TingoTech, mi Windows va muy lento 😢..."
+                href="https://api.whatsapp.com/send?phone=51927313308&text=Hola Tío TingoTech, mi Windows va muy lento 😢..."
                 target="_blank"
                 rel="noopener noreferrer"
                 title="Conversa con nosotros"
@@ -248,7 +249,7 @@ export default function Home() {
                 No te preocupes, recuperamos tus archivos en tiempo récord.
               </p>
               <Link
-                href="https://api.whatsapp.com/send?phone=51986077683&text=Hola Tío TingoTech, he perdido (elimine!) todos mis archivos 😢..."
+                href="https://api.whatsapp.com/send?phone=51927313308&text=Hola Tío TingoTech, he perdido (elimine!) todos mis archivos 😢..."
                 target="_blank"
                 rel="noopener noreferrer"
                 title="Conversa con nosotros"
@@ -269,7 +270,7 @@ export default function Home() {
                 y prevención a futuras infecciones
               </p>
               <Link
-                href="https://api.whatsapp.com/send?phone=51986077683&text=Hola Tío TingoTech, tengo muchos virus en la máquina 😢..."
+                href="https://api.whatsapp.com/send?phone=51927313308&text=Hola Tío TingoTech, tengo muchos virus en la máquina 😢..."
                 target="_blank"
                 rel="noopener noreferrer"
                 title="Conversa con nosotros"
@@ -289,7 +290,7 @@ export default function Home() {
                 Traemos a la vida tus equipos que no encienden o no dan imagen
               </p>
               <Link
-                href="https://api.whatsapp.com/send?phone=51986077683&text=Hola Tío TingoTech, necesito urgente una reparación de placa 😢..."
+                href="https://api.whatsapp.com/send?phone=51927313308&text=Hola Tío TingoTech, necesito urgente una reparación de placa 😢..."
                 target="_blank"
                 rel="noopener noreferrer"
                 title="Conversa con nosotros"
@@ -364,7 +365,7 @@ export default function Home() {
               TRABAJAR CON EL ESTADO PERUANO.
             </h2>
             <Link
-              href="https://api.whatsapp.com/send?phone=51986077683&text=Hola TingoTech, le escribimos de la institución {Escriba nombre de su institución aquí} para..."
+              href="https://api.whatsapp.com/send?phone=51927313308&text=Hola TingoTech, le escribimos de la institución {Escriba nombre de su institución aquí} para..."
               target="_blank"
               rel="noopener noreferrer"
               title="Chatea con nosotros"

@@ -67,8 +67,7 @@ export default function Navbar() {
             <li className="flex justify-center w-1/4 md:m-0">
               <Link
                 scroll={true}
-                href="https://api.whatsapp.com/send?phone=51986077683&text=Hola Tío TingoTech te quería consultar..."
-                type="button"
+                href="https://api.whatsapp.com/send?phone=51927313308&text=Hola%20tío%20TingoTech%20te%20consulto%20sobre%20"
                 className="flex items-center justify-center bg-green-900 w-11 h-11 rounded-full shadow-md hover:bg-green-600"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -83,8 +82,8 @@ export default function Navbar() {
               </Link>
             </li>
             <li className="flex justify-center w-1/4 md:m-0">
-              <Link
-                href="tel:+51-928-408-503"
+              <a
+                href="tel:+51927313308"
                 type="button"
                 className="flex items-center justify-center bg-green-900 w-11 h-11 rounded-full shadow-md hover:bg-green-600"
                 target="_blank"
@@ -94,7 +93,7 @@ export default function Navbar() {
                   size={18}
                   className="text-white font-normal stroke-2"
                 />
-              </Link>
+              </a>
             </li>
           </ul>
         </li>
