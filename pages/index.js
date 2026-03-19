@@ -33,16 +33,15 @@ export default function Home() {
                 Asesoría técnica personalizada. Transparencia y puntualidad nos
                 diferencia.
               </p>
-              <Link href="https://api.whatsapp.com/send?phone=51986077683&text=Hola Tío TingoTech te quería consultar...">
-                <a
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  title="Chatea con nosotros"
-                  className="text-white font-bold rounded-md bg-primary hover:opacity-90"
-                  style={{ padding: "16px 24px" }}
-                >
-                  Chatea con nosotros
-                </a>
+              <Link
+                href="https://api.whatsapp.com/send?phone=51986077683&text=Hola Tío TingoTech te quería consultar..."
+                target="_blank"
+                rel="noopener noreferrer"
+                title="Chatea con nosotros"
+                className="text-white font-bold rounded-md bg-primary hover:opacity-90"
+                style={{ padding: "16px 24px" }}
+              >
+                Chatea con nosotros
               </Link>
             </div>
             <div
@@ -152,16 +151,15 @@ export default function Home() {
               de técnicos están capacitados para resolver cualquier problema de
               hardware o software en tu PC ó Laptop
             </p>
-            <Link href="https://api.whatsapp.com/send?phone=51986077683&text=Hola Tío TingoTech quisiera pedir un servicio a domicilio para la dirección...">
-              <a
-                target="_blank"
-                rel="noopener noreferrer"
-                title="Chatea con nosotros"
-                className="text-white font-bold rounded-md bg-primary hover:opacity-90"
-                style={{ padding: "16px 24px" }}
-              >
-                Chatea con nosotros
-              </a>
+            <Link
+              href="https://api.whatsapp.com/send?phone=51986077683&text=Hola Tío TingoTech quisiera pedir un servicio a domicilio para la dirección..."
+              target="_blank"
+              rel="noopener noreferrer"
+              title="Chatea con nosotros"
+              className="text-white font-bold rounded-md bg-primary hover:opacity-90"
+              style={{ padding: "16px 24px" }}
+            >
+              Chatea con nosotros
             </Link>
           </div>
         </section>
@@ -186,15 +184,14 @@ export default function Home() {
                 Estabas usando tu equipo normal y de pronto al siguiente día
                 dejó de encender.
               </p>
-              <Link href="https://api.whatsapp.com/send?phone=51986077683&text=Hola Tío TingoTech, mi computadora no enciente 😢...">
-                <a
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  title="Conversa con nosotros"
-                  className="text-sm underline opacity-50 hover:opacity-100"
-                >
-                  Conversa con nosotros
-                </a>
+              <Link
+                href="https://api.whatsapp.com/send?phone=51986077683&text=Hola Tío TingoTech, mi computadora no enciente 😢..."
+                target="_blank"
+                rel="noopener noreferrer"
+                title="Conversa con nosotros"
+                className="text-sm underline opacity-50 hover:opacity-100"
+              >
+                Conversa con nosotros
               </Link>
             </div>
             <div className="w-full md:w-1/3 mx-5 py-6 px-2 md:px-8">
@@ -207,15 +204,14 @@ export default function Home() {
               <p className="text-sm py-3">
                 Cuando trabajas o cuando juegas, tenemos la solución
               </p>
-              <Link href="https://api.whatsapp.com/send?phone=51986077683&text=Hola Tío TingoTech, me salen pantallazos azules 😢...">
-                <a
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  title="Conversa con nosotros"
-                  className="text-sm underline opacity-50 hover:opacity-100"
-                >
-                  Conversa con nosotros
-                </a>
+              <Link
+                href="https://api.whatsapp.com/send?phone=51986077683&text=Hola Tío TingoTech, me salen pantallazos azules 😢..."
+                target="_blank"
+                rel="noopener noreferrer"
+                title="Conversa con nosotros"
+                className="text-sm underline opacity-50 hover:opacity-100"
+              >
+                Conversa con nosotros
               </Link>
             </div>
             <div className="w-full md:w-1/3 mx-5 py-6 px-2 md:px-8">
@@ -229,15 +225,14 @@ export default function Home() {
                 Enciende en una eternidad tu equipo o los programas abren muy
                 lento
               </p>
-              <Link href="https://api.whatsapp.com/send?phone=51986077683&text=Hola Tío TingoTech, mi Windows va muy lento 😢...">
-                <a
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  title="Conversa con nosotros"
-                  className="text-sm underline opacity-50 hover:opacity-100"
-                >
-                  Conversa con nosotros
-                </a>
+              <Link
+                href="https://api.whatsapp.com/send?phone=51986077683&text=Hola Tío TingoTech, mi Windows va muy lento 😢..."
+                target="_blank"
+                rel="noopener noreferrer"
+                title="Conversa con nosotros"
+                className="text-sm underline opacity-50 hover:opacity-100"
+              >
+                Conversa con nosotros
               </Link>
             </div>
           </div>
@@ -252,15 +247,14 @@ export default function Home() {
               <p className="text-sm py-3">
                 No te preocupes, recuperamos tus archivos en tiempo récord.
               </p>
-              <Link href="https://api.whatsapp.com/send?phone=51986077683&text=Hola Tío TingoTech, he perdido (elimine!) todos mis archivos 😢...">
-                <a
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  title="Conversa con nosotros"
-                  className="text-sm underline opacity-50 hover:opacity-100"
-                >
-                  Conversa con nosotros
-                </a>
+              <Link
+                href="https://api.whatsapp.com/send?phone=51986077683&text=Hola Tío TingoTech, he perdido (elimine!) todos mis archivos 😢..."
+                target="_blank"
+                rel="noopener noreferrer"
+                title="Conversa con nosotros"
+                className="text-sm underline opacity-50 hover:opacity-100"
+              >
+                Conversa con nosotros
               </Link>
             </div>
             <div className="w-full md:w-1/3 mx-5 py-6 px-2 md:px-8">
@@ -274,15 +268,14 @@ export default function Home() {
                 Realizamos mantenimiento lógico a tu sistema, eliminación virus
                 y prevención a futuras infecciones
               </p>
-              <Link href="https://api.whatsapp.com/send?phone=51986077683&text=Hola Tío TingoTech, tengo muchos virus en la máquina 😢...">
-                <a
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  title="Conversa con nosotros"
-                  className="text-sm underline opacity-50 hover:opacity-100"
-                >
-                  Conversa con nosotros
-                </a>
+              <Link
+                href="https://api.whatsapp.com/send?phone=51986077683&text=Hola Tío TingoTech, tengo muchos virus en la máquina 😢..."
+                target="_blank"
+                rel="noopener noreferrer"
+                title="Conversa con nosotros"
+                className="text-sm underline opacity-50 hover:opacity-100"
+              >
+                Conversa con nosotros
               </Link>
             </div>
             <div className="w-full md:w-1/3 mx-5 py-6 px-2 md:px-8">
@@ -295,15 +288,14 @@ export default function Home() {
               <p className="text-sm py-3">
                 Traemos a la vida tus equipos que no encienden o no dan imagen
               </p>
-              <Link href="https://api.whatsapp.com/send?phone=51986077683&text=Hola Tío TingoTech, necesito urgente una reparación de placa 😢...">
-                <a
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  title="Conversa con nosotros"
-                  className="text-sm underline opacity-50 hover:opacity-100"
-                >
-                  Conversa con nosotros
-                </a>
+              <Link
+                href="https://api.whatsapp.com/send?phone=51986077683&text=Hola Tío TingoTech, necesito urgente una reparación de placa 😢..."
+                target="_blank"
+                rel="noopener noreferrer"
+                title="Conversa con nosotros"
+                className="text-sm underline opacity-50 hover:opacity-100"
+              >
+                Conversa con nosotros
               </Link>
             </div>
           </div>
@@ -371,16 +363,15 @@ export default function Home() {
               CONTAMOS CON EL REGISTRO NACIONAL DE PROVEEDORES (RNP) PARA
               TRABAJAR CON EL ESTADO PERUANO.
             </h2>
-            <Link href="https://api.whatsapp.com/send?phone=51986077683&text=Hola TingoTech, le escribimos de la institución {Escriba nombre de su institución aquí} para...">
-              <a
-                target="_blank"
-                rel="noopener noreferrer"
-                title="Chatea con nosotros"
-                className="text-white font-bold rounded-md bg-primary hover:opacity-90"
-                style={{ padding: "16px 24px" }}
-              >
-                Conversa con nosotros
-              </a>
+            <Link
+              href="https://api.whatsapp.com/send?phone=51986077683&text=Hola TingoTech, le escribimos de la institución {Escriba nombre de su institución aquí} para..."
+              target="_blank"
+              rel="noopener noreferrer"
+              title="Chatea con nosotros"
+              className="text-white font-bold rounded-md bg-primary hover:opacity-90"
+              style={{ padding: "16px 24px" }}
+            >
+              Conversa con nosotros
             </Link>
           </div>
         </section>
@@ -553,49 +544,47 @@ export default function Home() {
             </p>
           </div>
           <div className="flex flex-col md:flex-row items-center md:items-start md:justify-center">
-            <Link href="https://pe.linkedin.com/in/kevienfox">
-              <a
-                title="Kevin"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="w-full md:w-1/5 mx-5 py-6 px-8"
-              >
-                <div className="block overflow-hidden h-48 w-48 mx-auto hover:shadow-xl">
-                  <img
-                    className="object-contain w-full h-full"
-                    src="/img/kevin.jpg"
-                    alt="Kevin Espinoza Bravo"
-                  />
-                </div>
-                <p className="font-bold text-lg text-center mt-5">
-                  Kevin Espinoza Bravo
-                </p>
-                <p className="font-light text-lg italic text-center">
-                  Co-Founder & General Manager
-                </p>
-              </a>
+            <Link
+              href="https://pe.linkedin.com/in/kevienfox"
+              title="Kevin"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="w-full md:w-1/5 mx-5 py-6 px-8"
+            >
+              <div className="block overflow-hidden h-48 w-48 mx-auto hover:shadow-xl">
+                <img
+                  className="object-contain w-full h-full"
+                  src="/img/kevin.jpg"
+                  alt="Kevin Espinoza Bravo"
+                />
+              </div>
+              <p className="font-bold text-lg text-center mt-5">
+                Kevin Espinoza Bravo
+              </p>
+              <p className="font-light text-lg italic text-center">
+                Co-Founder & General Manager
+              </p>
             </Link>
-            <Link href="https://www.linkedin.com/in/daison-david-juancho-adriano-441490bb/">
-              <a
-                title="Juan"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="w-full md:w-1/5 mx-5 py-6 px-8"
-              >
-                <div className="block overflow-hidden h-48 w-48 mx-auto hover:shadow-xl">
-                  <img
-                    className="object-cover w-full h-full"
-                    src="/img/juan.jpg"
-                    alt="David Juancho"
-                  />
-                </div>
-                <p className="font-bold text-lg text-center mt-5">
-                  David Juancho
-                </p>
-                <p className="font-light text-lg italic text-center">
-                  Co-Founder & Technical Leader
-                </p>
-              </a>
+            <Link
+              href="https://www.linkedin.com/in/daison-david-juancho-adriano-441490bb/"
+              title="Juan"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="w-full md:w-1/5 mx-5 py-6 px-8"
+            >
+              <div className="block overflow-hidden h-48 w-48 mx-auto hover:shadow-xl">
+                <img
+                  className="object-cover w-full h-full"
+                  src="/img/juan.jpg"
+                  alt="David Juancho"
+                />
+              </div>
+              <p className="font-bold text-lg text-center mt-5">
+                David Juancho
+              </p>
+              <p className="font-light text-lg italic text-center">
+                Co-Founder & Technical Leader
+              </p>
             </Link>
           </div>
         </section>

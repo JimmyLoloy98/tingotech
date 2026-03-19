@@ -23,27 +23,25 @@ export default function Footer() {
               Comité 2 de Brisas
             </li>
             <li className="text-sm py-1 flex items-center">
-              <Link href="mailto:hola@tingotech.com">
-                <a
-                  className="flex items-center"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  <Mail size={16} className="mr-1" />
-                  hola@tingotech.com
-                </a>
+              <Link
+                href="mailto:hola@tingotech.com"
+                className="flex items-center"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <Mail size={16} className="mr-1" />
+                hola@tingotech.com
               </Link>
             </li>
             <li className="text-sm py-1">
-              <Link href="tel:+51-928-408-503">
-                <a
-                  className="flex items-center"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  <Phone size={16} className="mr-1" />
-                  986 077 683
-                </a>
+              <Link
+                href="tel:+51-928-408-503"
+                className="flex items-center"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <Phone size={16} className="mr-1" />
+                986 077 683
               </Link>
             </li>
           </ul>
@@ -53,37 +51,38 @@ export default function Footer() {
           <h3 className="font-bold mb-4">Redes Sociales</h3>
           <ul>
             <li className="text-sm py-1">
-              <Link href="https://www.facebook.com/tingotech">
-                <a
-                  className="flex items-center"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  title="Facebook"
-                >
-                  <Facebook size={16} className="mr-1" />
-                  Facebook
-                </a>
+              <Link
+                href="https://www.facebook.com/tingotech"
+                className="flex items-center"
+                target="_blank"
+                rel="noopener noreferrer"
+                title="Facebook"
+              >
+                <Facebook size={16} className="mr-1" />
+                Facebook
               </Link>
             </li>
             <li className="text-sm py-1 flex items-center">
-              <Link href="https://www.instagram.com/tingotech/">
-                <a
-                  className="flex items-center"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  title="Instagram"
-                >
-                  <Instagram size={16} className="mr-1" />
-                  Instagram
-                </a>
+              <Link
+                href="https://www.instagram.com/tingotech/"
+                className="flex items-center"
+                target="_blank"
+                rel="noopener noreferrer"
+                title="Instagram"
+              >
+                <Instagram size={16} className="mr-1" />
+                Instagram
               </Link>
             </li>
             <li className="text-sm py-1 flex items-center">
-              <Link href="https://api.whatsapp.com/send?phone=51986077683&text=Hola Tío TingoTech te quería consultar...">
-                <a target="_blank" rel="noopener noreferrer" title="WhatsApp">
-                  <i className="mr-2 fab fa-whatsapp"></i>
-                  WhatsApp
-                </a>
+              <Link
+                href="https://api.whatsapp.com/send?phone=51986077683&text=Hola Tío TingoTech te quería consultar..."
+                target="_blank"
+                rel="noopener noreferrer"
+                title="WhatsApp"
+              >
+                <i className="mr-2 fab fa-whatsapp"></i>
+                WhatsApp
               </Link>
             </li>
           </ul>

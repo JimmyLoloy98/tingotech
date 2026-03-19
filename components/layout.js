@@ -53,7 +53,7 @@ export default function Layout({ children }) {
         />
         <meta property="og:image" content="/img/logo_2020.png" />
         <meta property="og:image:alt" content="TingoTech" />
-        <meta property="og:url" content="https://www.tingotech.com/" />
+        <meta property="og:url" content="https://tingotech.net" />
         <meta property="og:site_name" content="TingoTech" />
         <meta property="og:locale" content="es" />
       </Head>
@@ -70,8 +70,8 @@ export default function Layout({ children }) {
         <meta name="twitter:creator" value="@TingoTech" content="@TingoTech" />
         <meta
           name="twitter:url"
-          value="https://www.tingotech.com/"
-          content="https://www.tingotech.com/"
+          value="https://tingotech.net"
+          content="https://tingotech.net"
         />
         <meta name="twitter:title" value="TingoTech" content="TingoTech" />
         <meta
