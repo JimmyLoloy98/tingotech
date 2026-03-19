@@ -360,19 +360,21 @@ export default function Home() {
           }}
         >
           <div className="container mx-auto w-5/6 flex flex-col items-center">
-            <h2 className="font-medium text-center italic text-4xl text-white my-10">
-              CONTAMOS CON EL REGISTRO NACIONAL DE PROVEEDORES (RNP) PARA
-              TRABAJAR CON EL ESTADO PERUANO.
+            <h2 className="font-bold text-4xl text-white text-center">
+              VENTA E INSTALACIÓN DE ANTIVIRUS
             </h2>
+            <p className="font-medium text-center italic text-4xl text-white my-10">
+              Contamos con licencias ESET NOD32 originales y con garantía. Ventas en todo Huánuco y Tingo María.
+            </p>
             <Link
-              href="https://api.whatsapp.com/send?phone=51927313308&text=Hola TingoTech, le escribimos de la institución {Escriba nombre de su institución aquí} para..."
+              href="https://api.whatsapp.com/send?phone=51986077683&text=Hola TingoTech, le escribimos de la institución {Escriba nombre de su institución aquí} para..."
               target="_blank"
               rel="noopener noreferrer"
               title="Chatea con nosotros"
               className="text-white font-bold rounded-md bg-primary hover:opacity-90"
               style={{ padding: "16px 24px" }}
             >
-              Conversa con nosotros
+              Cotiza tu compra
             </Link>
           </div>
         </section>
