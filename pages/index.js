@@ -353,6 +353,7 @@ export default function Home() {
         </section>
 
         <section
+          id="huanuco"
           className="py-20"
           style={{
             background:

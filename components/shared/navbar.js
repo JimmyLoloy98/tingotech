@@ -16,6 +16,11 @@ export default function Navbar() {
         </li>
       </ul>
       <ul className="flex items-center justify-items-end overflow-auto text-sm">
+        <li className="text-center p-3 bg-green-600 rounded-md w-24 md:m-0">
+          <Link scroll={true} href="#huanuco" title="Inicio" className="text-white font-medium">
+            HUÁNUCO
+          </Link>
+        </li>
         <li className="hidden md:block text-center w-24 md:m-0">
           <Link scroll={true} href="#about-us" title="Nosotros" className="text-white font-medium">
             Nosotros
