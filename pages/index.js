@@ -367,6 +367,13 @@ export default function Home() {
             <p className="font-medium text-center italic text-4xl text-white my-10">
               Contamos con licencias ESET NOD32 originales y con garantía. Ventas en todo Huánuco y Tingo María.
             </p>
+            <div className="flex justify-center items-center gap-5 mb-8">
+              <img src="/img/huanuco-tech.png" alt="Huanuco Tech" className="w-40 h-20 md:w-60 md:h-32" />
+              <p className="text-white font-bold text-4xl">+</p>
+              <svg className="object-contain w-full h-full text-white fill-current opacity-75">
+                <use xlinkHref="#eset" />
+              </svg>
+            </div>
             <Link
               href="https://api.whatsapp.com/send?phone=51986077683&text=Hola TingoTech, le escribimos de la institución {Escriba nombre de su institución aquí} para..."
               target="_blank"
